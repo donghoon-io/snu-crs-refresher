@@ -1,6 +1,6 @@
 function hello() {
   chrome.tabs.executeScript({
-    file: 'alert.js'
+    file: 'js/alert.js'
   }); 
 }
 

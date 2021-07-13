@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "SNU CRS Refresher",
-  "description": "서울대학교 수강신청 웹사이트에서 '이미 수강신청 프로그램을 사용중입니다'라고 뜰 경우에 이를 해제해주는 extension",
+  "description": "서울대학교 수강신청 웹사이트에서 '이미 수강신청 프로그램을 사용중입니다'라고 뜰 경우에 이를 해제해주는 애드온",
   "version": "1.0",
 
   "icons": {
