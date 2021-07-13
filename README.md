@@ -9,4 +9,4 @@ Chrome extension for refresing SNU course registration website
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
+Open sourced under the [MIT license](LICENSE).
