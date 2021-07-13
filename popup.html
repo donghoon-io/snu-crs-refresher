@@ -1,0 +1,32 @@
+<!doctype html>
+<meta charset="UTF-8">
+<html>
+  <style>
+    .myButton {
+      background-color:#ffffff;
+      color: #000000;
+      display:inline-block;
+      cursor:pointer;
+      border: 1px solid #333333;
+      font-size: 12px;
+      font-weight:bold;
+      padding: 7px 10px;
+      text-decoration:none;
+    }
+    .myButton:hover {
+      background-color: #d4d4d4;
+    }
+    .myButton:active {
+      position:relative;
+      top:1px;
+    }
+  </style>
+<body>
+  <div style="width: 125px; text-align: center;">
+    <img src="images/logo.svg" width="60%" height="auto" style="margin: 10px">
+    <button id="refresh" class="myButton" style="margin: 5px">새로고침</button>
+    <span id="message" hidden></span>
+  </div>
+  <script type="text/javascript" src="js/popup.js"></script>
+</body>
+</html>
